@@ -1,2 +1,2 @@
-github.com/gorilla/securecookie v1.1.1 h1:miw7JPhV+b/lAHSXz4qd/nN9jRiAFV5FwjeKyCS8BvQ=
-github.com/gorilla/securecookie v1.1.1/go.mod h1:ra0sb63/xPlUeL+yeDciTfxMRAA+MP+HVt/4epWDjd4=
+github.com/stacklok/securecookie v0.0.0-20230605113208-db3c8f8bddac h1:tziBaIegptOinH2RAv5L2v3xVqNb+emwrusabCxRo9I=
+github.com/stacklok/securecookie v0.0.0-20230605113208-db3c8f8bddac/go.mod h1:AqTryvu4ZFBYLQ6xsqV5gB17j3blUsocWlbKjn9NiYw=

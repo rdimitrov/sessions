@@ -1,3 +1,5 @@
-module github.com/gorilla/sessions
+module github.com/stacklok/sessions
 
-require github.com/gorilla/securecookie v1.1.1
+go 1.20
+
+require github.com/stacklok/securecookie v0.0.0-20230605113208-db3c8f8bddac

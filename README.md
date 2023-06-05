@@ -5,8 +5,7 @@
 
 ---
 
-**The Gorilla project has been archived, and is no longer under active maintainenance. You can read more here: https://github.com/gorilla#gorilla-toolkit**
-
+**This is a fork of the original gorilla/sessions package, which is no longer maintained. You can read more here: https://github.com/gorilla#gorilla-toolkit**
 ---
 
 gorilla/sessions provides cookie and filesystem sessions and infrastructure for

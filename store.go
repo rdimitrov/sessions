@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/gorilla/securecookie"
+	"github.com/stacklok/securecookie"
 )
 
 // Store is an interface for custom session stores.
