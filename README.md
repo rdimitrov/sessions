@@ -1,6 +1,6 @@
 # sessions
 
-[![Continuous integration](https://github.com/stacklok/sessions/actions/workflows/test.yml/badge.svg)](https://github.com/stacklok/sessions/actions/workflows/test.yml) [![GoDoc](https://godoc.org/github.com/gorilla/sessions?status.svg)](https://godoc.org/github.com/gorilla/sessions) [![Sourcegraph](https://sourcegraph.com/github.com/gorilla/sessions/-/badge.svg)](https://sourcegraph.com/github.com/gorilla/sessions?badge)
+[![Continuous integration](https://github.com/stacklok/sessions/actions/workflows/test.yml/badge.svg)](https://github.com/stacklok/sessions/actions/workflows/test.yml) [![GoDoc](https://godoc.org/github.com/stacklok/sessions?status.svg)](https://godoc.org/github.com/stacklok/sessions)
 
 ---
 
