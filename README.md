@@ -28,7 +28,7 @@ Let's start with an example that shows the sessions API in a nutshell:
 ```go
 	import (
 		"net/http"
-		"github.com/gorilla/sessions"
+		"github.com/stacklok/sessions"
 	)
 
 	// Note: Don't store your key in your source code. Pass it via an
